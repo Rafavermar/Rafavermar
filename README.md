@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bct.com.bd/sitepad-data/uploads/2020/09/BCT2.gif)](https://rvm.io)
+[![MasterHead](http://scicom2020.wordpress.ncsu.edu/files/2020/04/Cures-Final-Rule_Banner_Opt2_v34.gif)](https://rvm.io)
 <h1 align="center">Welcome! I'm Rafael Vera-Maranon</h1>
 <h3 align="center">A PASSIONATE DATA AND BUSINESS ANALYTIC </h3>
 
