@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpapers.com/images/hd/coniferous-forest-lake-bub7kqwrdxapq1t8-bub7kqwrdxapq1t8.jpg)](https://rvm.io)
+[![MasterHead](https://images.unsplash.com/photo-1598550305968-ed684e58ff47?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&h=500&q=60)](https://rvm.io)
 <h1 align="center">Welcome! I'm Rafael Vera-Maranon</h1>
 <h3 align="center">A passionate Data and Business Analyst</h3>
 
@@ -12,9 +12,9 @@
 
 - 👥 I’m looking to collaborate on **Python and SQL projects**
 
-- 🤝 I’m looking for help with **a python webscraping project**(link available soon)
+- 🤝 I’m looking for help with [a python webscraping project](link available soon)
 
-- 👨‍💻 All of my projects are available at **website in progress**(website in progress)
+- 👨‍💻 All of my projects are available at [website in progress](website in progress)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rafael-vera-mara%C3%B1%C3%B3n/](https://www.linkedin.com/in/rafael-vera-mara%C3%B1%C3%B3n/)
 
@@ -22,9 +22,9 @@
 
 - 📫 How to reach me **jr.vera.ma@gmail.com**
 
-- 📄 Know about my experiences **website in progess**(website in progess)
+- 📄 Know about my experiences [website in progess](website in progess)
 
-- ⚡ Fun fact **SELECT ALL FROM World WHERE "People" LIKE '%You%'**
+- ⚡ Fun fact **SELECT * FROM World WHERE "People" '%You%' LIKE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
