@@ -1,6 +1,7 @@
-[![MasterHead](https://www.freewebheaders.com/wp-content/gallery/other-backgrounds/red-lonely-chair-website-header-design.jpg)](https://rvm.io)
+[![MasterHead](https://www.visittheusa.mx/sites/default/files/styles/16_9_1280x720/public/2016-10/Sequoia.jpg?itok=WzovxTHg)](https://rvm.io)
 <h1 align="center">Welcome! I'm Rafael Vera-Maranon</h1>
 <h3 align="center">A passionate Data and Business Analyst</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafavermar&label=Profile%20views&color=0e75b6&style=flat" alt="rafavermar" /> </p>
@@ -36,5 +37,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafavermar&show_icons=true&locale=en&layout=compact" alt="rafavermar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafavermar&show_icons=true&locale=en" alt="rafavermar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafavermar&" alt="rafavermar" /></p>
