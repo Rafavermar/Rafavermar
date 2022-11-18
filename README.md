@@ -1,4 +1,5 @@
-[![MasterHead](https://www.flexpowersystems.com/wp-content/uploads/2020/08/shutterstock_1251830596-scaled-1.jpg)](https://rvm.io)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/D4D16AQGWPrgL069Unw/profile-displaybackgroundimage-shrink_350_1400/0/1667322192063?e=1674086400&v=beta&t=ikL3q_dmEWfpKk9qTPFKwhSNBjfv08s11NLrFGof3Sc)](https://rvm.io)
+
 <h1 align="center">Welcome! I'm Rafael Vera-Maranon</h1>
 <h3 align="center">A passionate Data and Business Analyst</h3>
 
