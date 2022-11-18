@@ -1,7 +1,6 @@
-[![MasterHead](http://scicom2020.wordpress.ncsu.edu/files/2020/04/Cures-Final-Rule_Banner_Opt2_v34.gif)](https://rvm.io)
+[![MasterHead](https://www.freewebheaders.com/wp-content/gallery/other-backgrounds/red-lonely-chair-website-header-design.jpg)](https://rvm.io)
 <h1 align="center">Welcome! I'm Rafael Vera-Maranon</h1>
-<h3 align="center">A PASSIONATE DATA AND BUSINESS ANALYTIC </h3>
-
+<h3 align="center">A passionate Data and Business Analyst</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafavermar&label=Profile%20views&color=0e75b6&style=flat" alt="rafavermar" /> </p>
