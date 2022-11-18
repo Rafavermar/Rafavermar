@@ -1,7 +1,6 @@
 [![MasterHead](https://www.visittheusa.mx/sites/default/files/styles/16_9_1280x720/public/2016-10/Sequoia.jpg?itok=WzovxTHg)](https://rvm.io)
 <h1 align="center">Welcome! I'm Rafael Vera-Maranon</h1>
 <h3 align="center">A passionate Data and Business Analyst</h3>
-<img aling="right" alt="Analytics" width="400" src="https://cdn.dribbble.com/users/68398/screenshots/3687284/loader_800.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafavermar&label=Profile%20views&color=0e75b6&style=flat" alt="rafavermar" /> </p>
