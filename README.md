@@ -1,7 +1,7 @@
 [![MasterHead](https://www.visittheusa.mx/sites/default/files/styles/16_9_1280x720/public/2016-10/Sequoia.jpg?itok=WzovxTHg)](https://rvm.io)
 <h1 align="center">Welcome! I'm Rafael Vera-Maranon</h1>
 <h3 align="center">A passionate Data and Business Analyst</h3>
-
+<img aling="right" alt="Analytics" width="400" src="https://cdn.dribbble.com/users/68398/screenshots/3687284/loader_800.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafavermar&label=Profile%20views&color=0e75b6&style=flat" alt="rafavermar" /> </p>
@@ -12,9 +12,9 @@
 
 - 👥 I’m looking to collaborate on **Python and SQL projects**
 
-- 🤝 I’m looking for help with **a python webscraping project** (link available soon)
+- 🤝 I’m looking for help with [a python webscraping project](link available soon)
 
-- 👨‍💻 All of my projects are available at **website in progress** (website in progress)
+- 👨‍💻 All of my projects are available at [website in progress](website in progress)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rafael-vera-mara%C3%B1%C3%B3n/](https://www.linkedin.com/in/rafael-vera-mara%C3%B1%C3%B3n/)
 
@@ -37,3 +37,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafavermar&show_icons=true&locale=en&layout=compact" alt="rafavermar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafavermar&show_icons=true&locale=en" alt="rafavermar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafavermar&" alt="rafavermar" /></p>
