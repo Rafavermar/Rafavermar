@@ -38,5 +38,5 @@
 
 <h3 align="left">Repository Statistics:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafavermar&token=${token}&show_icons=true&locale=en" alt="
+  <img src="https://github-readme-stats.vercel.app/api?username=rafavermar&token=${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}&show_icons=true&locale=en" alt="
 
