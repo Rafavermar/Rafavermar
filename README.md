@@ -1,4 +1,3 @@
-![MasterHead](https://i.stack.imgur.com/NGoGf.jpg)
 
 <h1 align="center">Welcome! I'm Rafael Vera-Maranon</h1>
 <h3 align="center">A PASSIONATE DATA AND BUSINESS ANALYST</h3>
@@ -9,9 +8,9 @@
 
 - 🔭 I’m currently working on **improving analytics and programming skills**
 
-- 🌱 I’m currently learning **SQL, Python, R, AWS, Azure, PowerBI**
+- 🌱 I’m currently learning **SQL, Python, R, AWS, Azure, PowerBI, Tableau**
 
-- 👥 I’m looking to collaborate on **Python and SQL projects**
+- 👥 I’m looking to collaborate on **Python, SQL projects and development**
 
 - 🤝 I’m looking for help with **a python webscraping project**(link available soon)
 
