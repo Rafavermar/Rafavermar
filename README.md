@@ -1,4 +1,4 @@
-![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fsuperuser.com%2Fquestions%2F333429%2Fhow-to-create-a-blurry-background-in-photoshop&psig=AOvVaw0uuiLUWnhrXGCxOtDp83Ra&ust=1675268302934000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCexu-a8vwCFQAAAAAdAAAAABAX)]](https://i.stack.imgur.com/NGoGf.jpg)
+[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fsuperuser.com%2Fquestions%2F333429%2Fhow-to-create-a-blurry-background-in-photoshop&psig=AOvVaw0uuiLUWnhrXGCxOtDp83Ra&ust=1675268302934000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCexu-a8vwCFQAAAAAdAAAAABAX)]](https://i.stack.imgur.com/NGoGf.jpg)]
 
 <h1 align="center">Welcome! I'm Rafael Vera-Maranon</h1>
 <h3 align="center">A PASSIONATE DATA AND BUSINESS ANALYST</h3>
