@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/D4D16AQGWPrgL069Unw/profile-displaybackgroundimage-shrink_350_1400/0/1667322192063?e=1674086400&v=beta&t=ikL3q_dmEWfpKk9qTPFKwhSNBjfv08s11NLrFGof3Sc)](https://rvm.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsuperuser.com%2Fquestions%2F333429%2Fhow-to-create-a-blurry-background-in-photoshop&psig=AOvVaw0uuiLUWnhrXGCxOtDp83Ra&ust=1675268302934000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCexu-a8vwCFQAAAAAdAAAAABAX)](https://rvm.io)
 
 <h1 align="center">Welcome! I'm Rafael Vera-Maranon</h1>
 <h3 align="center">A PASSIONATE DATA AND BUSINESS ANALYST</h3>
