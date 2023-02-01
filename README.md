@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **a python webscraping project**(link available soon)
 
-- 👨‍💻 All of my projects are available at **(website in progress)**
+- 👨‍💻 All of my projects are available at (https://rafaveramaranon.carrd.co/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rafael-vera-mara%C3%B1%C3%B3n/](https://www.linkedin.com/in/rafael-vera-mara%C3%B1%C3%B3n/)
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **jr.vera.ma@gmail.com**
 
-- 📄 Know about my experiences **(website in progess)**
+- 📄 Know about my experiences (https://rafaveramaranon.carrd.co/)
 
 - ⚡ Fun fact **SELECT** **ALL** **FROM** World **WHERE** "People" **LIKE** '%You%'
 
