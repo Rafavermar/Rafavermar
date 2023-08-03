@@ -1,6 +1,6 @@
 
 <h1 align="center">Welcome! I'm Rafael Vera-Maranon</h1>
-<h3 align="center">A PASSIONATE DATA AND BUSINESS ANALYST</h3>
+<h3 align="center">A PASSIONATE DATA ANALYST AND SOFTWARE DEVELOPER</h3>
 
 
 
