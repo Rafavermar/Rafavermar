@@ -20,8 +20,6 @@
 
 - 📫 How to reach me **jr.vera.ma@gmail.com**
 
-- 📄 Know about my experiences https://rafaveramaranon.carrd.co/
-
 - ⚡ Fun fact **SELECT** **ALL** **FROM** World **WHERE** "People" **LIKE** '%You%'
 
 <h3 align="left">Connect with me:</h3>
