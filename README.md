@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafavermar&label=Profile%20views&color=0e75b6&style=flat" alt="rafavermar" /> </p>
 
-- 🔭 I’m currently working on **improving analytics and programming skills**
+- 🔭 I’m currently working on **improving analytics, ML, Data Engineering skills**
 
-- 🌱 I’m currently learning **SQL, Python, R, AWS, Azure, PowerBI, Tableau**
+- 🌱 I’m currently learning **SQL, Python, R, AWS, Azure, PowerBI, Tableau, Kubernetes, dbt...**
 
 - 👥 I’m looking to collaborate on **Python, SQL projects and development**
 
