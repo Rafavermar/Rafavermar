@@ -12,7 +12,7 @@
 
 - 👥 I’m looking to collaborate on **Python, SQL projects and development**
 
-- 👨‍💻 All of my projects are available at [https://rafaveramaranon.carrd.co/](https://rafaveramar-portfolio.carrd.co)
+- 👨‍💻 All of my projects are available at [https://rafaveramaranon.carrd.co/]([https://rafael-vera-maranon.com])
 
 - 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/rafael-vera-mara%C3%B1%C3%B3n/) and here [Medium](https://medium.com/@jr.vera.ma)
 
