@@ -1,33 +1,117 @@
+<h1 align="center">Hi, I'm Rafael Vera-Marañón</h1>
 
-<h1 align="center">Welcome! I'm Rafael Vera-Maranon</h1>
-<h3 align="center">A PASSIONATE DATA ENGINEER AND SOFTWARE DEVELOPER</h3>
+<h3 align="center">
+Data Engineer & Architect · Azure · Databricks · Spark · Microsoft Fabric · AI Integration
+</h3>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafavermar&label=Profile%20views&color=0e75b6&style=flat" alt="rafavermar" /> </p>
-
-- 🔭 I’m currently working on **improving analytics, ML, Data Engineering skills**
-
-- 🌱 I’m currently learning **SQL, Python, R, AWS, Azure, PowerBI, Tableau, Kubernetes, dbt...**
-
-- 👥 I’m looking to collaborate on **Python, SQL projects and development**
-
-- 👨‍💻 All of my projects are available at [https://rafael-vera-maranon.com](https://rafael-vera-maranon.com)
-
-- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/rafael-vera-mara%C3%B1%C3%B3n/) and here [Medium](https://medium.com/@jr.vera.ma)
-
-- 💬 Ask me about **all you are curious on, I'll find the answer!**
-
-- 📫 How to reach me **jr.vera.ma@gmail.com**
-
-- ⚡ Fun fact **SELECT** **ALL** **FROM** World **WHERE** "People" **LIKE** '%You%'
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rafael vera-marañón" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael vera-marañón" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://rafael-vera-maranon.com">
+    <img src="https://img.shields.io/badge/Portfolio-rafael--vera--maranon.com-0A66C2?style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-vera-mara%C3%B1%C3%B3n/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Vera--Marañón-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:jr.vera.ma@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jr.vera.ma%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+I build reliable data platforms, lakehouse architectures and analytics engineering solutions with a strong focus on **Azure**, **Databricks**, **Spark**, **Microsoft Fabric**, **Data Factory**, **Delta Lake**, **Unity Catalog**, **Power BI semantic models** and **metadata-driven engineering**.
 
+My background combines data engineering, software engineering, process analytics and cloud architecture. I enjoy designing systems that are maintainable, observable and useful for real business operations — not just technically elegant.
+
+Currently working as **Data Engineer & Architect at Capgemini**, focused on data platform engineering, PySpark/Synapse/Fabric migration, Databricks platform solutions, Azure data services and AI-enabled systems.
+
+---
+
+## Core focus
+
+- Lakehouse architecture with **Databricks**, **Delta Lake** and **Unity Catalog**
+- Cloud data engineering on **Azure**, with experience across AWS and GCP
+- Batch and streaming pipelines with **PySpark**, **Scala**, **Kafka** and **Airflow**
+- Orchestration with **Azure Data Factory**, **Databricks Workflows** and DevOps pipelines
+- Semantic modelling with **Power BI**, **DAX** and enterprise reporting patterns
+- Metadata-driven ingestion, transformation and platform evolution
+- AI integration using **Azure AI Foundry**, agents and applied automation
+
+---
+
+## Tech stack
+
+### Data engineering & cloud
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-5B5FC7?style=flat-square)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-2560E0?style=flat-square)
+![Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+### Languages & engineering
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Data platforms, BI & orchestration
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+
+---
+
+## Certifications
+
+- Databricks Certified Data Engineer Professional
+- Databricks Certified Data Engineer Associate
+- Microsoft Fabric Data Engineer Associate — DP-700
+
+---
+
+## What I like to build
+
+I am especially interested in projects around:
+
+- Modern data platforms and lakehouse architectures
+- Databricks migrations and platform engineering
+- Metadata-driven pipelines
+- Data quality, observability and governance
+- Azure private connectivity and secure data architectures
+- AI agents applied to data engineering workflows
+- Technical writing about real-world engineering patterns
+
+---
+
+## Writing & knowledge sharing
+
+I regularly write about data engineering, Azure, Databricks, architecture and practical lessons from real projects.
+
+- Portfolio: [rafael-vera-maranon.com](https://rafael-vera-maranon.com)
+- LinkedIn: [Rafael Vera-Marañón](https://www.linkedin.com/in/rafael-vera-mara%C3%B1%C3%B3n/)
+- Medium: [@jr.vera.ma](https://medium.com/@jr.vera.ma)
+
+---
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafavermar&show_icons=true&hide_title=true&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafavermar&layout=compact&hide_border=true" height="150" />
+</p>
+
+---
